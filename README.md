@@ -1,5 +1,5 @@
 
-# 🎂 Vidya's Birthday Surprise - Deployment Guide
+#  Deployment Guide
 
 This project is ready to be a beautiful surprise! To make sure your images and music show up after you deploy, follow these steps.
 
